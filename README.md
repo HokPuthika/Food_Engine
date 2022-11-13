@@ -7,9 +7,14 @@
 
 - FONT WEIGHTS
   Default: 400
+  Medium: 500
+  Simi-Bold: 600
+  Bold: 700
 
 - LINE HEIGHTS
   Default: 1
+  Small: 1.05
+  Pragraph Default: 1.6
 
 ---- 02 COLORS
 
@@ -24,6 +29,7 @@
 ---- 05 SHADOWS
 
 ---- 06 BORDER-RADIUS
+Default: 9px
 
 ---- 07 WHITESPACE
 
