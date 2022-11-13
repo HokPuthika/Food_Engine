@@ -14,9 +14,8 @@
 ---- 02 COLORS
 
 - Primary: #e67e22
-- Tints:
-  #fdf2e9
-- Shades:
+- Tints:#fdf2e9
+- Shades: #cf711f
 - Accents:
 - Greys:
   #555
