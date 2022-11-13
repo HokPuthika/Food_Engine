@@ -1,23 +1,26 @@
 # Food_Engine
 
----- 01 TYPOGRAPHY SYSTEM 
+---- 01 TYPOGRAPHY SYSTEM
 
 - FONT SIZE SYSTEM (px)
-10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+  10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
 
 - FONT WEIGHTS
-Default: 400
+  Default: 400
 
 - LINE HEIGHTS
-Default: 1
+  Default: 1
 
 ---- 02 COLORS
 
 - Primary: #e67e22
-- Tints: 
+- Tints:
+  #fdf2e9
 - Shades:
 - Accents:
-- Greys: #555
+- Greys:
+  #555
+  #333
 
 ---- 05 SHADOWS
 
@@ -26,4 +29,4 @@ Default: 1
 ---- 07 WHITESPACE
 
 - SPACING SYSTEM (px)
-2 / 4 / 8 /12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+  2 / 4 / 8 /12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
